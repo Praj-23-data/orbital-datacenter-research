@@ -109,7 +109,3 @@ See [`docs/thermal_physics.md`](docs/thermal_physics.md) and
 Steady-state, grey-body, isothermal-panel modelling; coarse coolant/structure mass
 allocations; no debris erosion, attitude, or lifecycle degradation. Each module's
 docstring and the research paper detail these and the planned extensions.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
